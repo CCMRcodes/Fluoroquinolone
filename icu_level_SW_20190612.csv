@@ -1,154 +1,154 @@
-gao_parent_key,STA5A_parent_number,visn,facility_name,icu_level,icu_score
-402,402,1V01,"(1V01) (402) Togus, ME",Level 3,3
-405,405,1V01,"(1V01) (405) White River Junction, VT",Level 3,3
-436,436,4V19,(4V19) (436) Montana HCS,Level 3,3
-437,437,3V23,"(3V23) (437) Fargo, ND",Level 3,3
-438,438,3V23,"(3V23) (438) Sioux Falls, SD",Level 3,3
-442,442,4V19,"(4V19) (442) Cheyenne, WY",Level 3,3
-452,589A7,3V15,"(3V15) (589) Wichita, KS",Level 2,4
-459,459,5V21,"(5V21) (459) Honolulu, HI",No ICU,1
-460,460,1V04,"(1V04) (460) Wilmington, DE",Level 3,3
-463,463,5V20,"(5V20) (463) Anchorage, AK",No ICU,1
-500,528A8,1V02,"(1V02) (528) Albany, NY",Level 2,4
-501,501,5V22,(5V22) (501) New Mexico HCS,Level 1,5
-502,502,4V16,"(4V16) (502) Alexandria, LA",No ICU,1
-503,503,1V04,"(1V04) (503) Altoona, PA",No ICU,1
-504,504,4V17,"(4V17) (504) Amarillo, TX",Level 3,3
-506,506,3V10,"(3V10) (506) Ann Arbor, MI",Level 1,5
-508,508,2V07,"(2V07) (508) Atlanta, GA",Level 1,5
-509,509,2V07,"(2V07) (509) Augusta, GA",Level 1,5
-512,512,1V05,"(1V05) (512) Baltimore HCS, MD",Level 1,5
-514,528A6,1V02,"(1V02) (528) Bath, NY",No ICU,1
-515,515,3V10,"(3V10) (515) Battle Creek, MI",No ICU,1
-516,516,2V08,"(2V08) (516) Bay Pines, FL",Level 2,4
-517,517,1V05,"(1V05) (517) Beckley, WV",Level 4,2
-518,518,1V01,"(1V01) (518) Bedford, MA",No ICU,1
-519,519,4V17,"(4V17) (519) Big Spring, TX",No ICU,1
-520,520,4V16,"(4V16) (520) Gulf Coast HCS, MS",Level 3,3
-521,521,2V07,"(2V07) (521) Birmingham, AL",Level 1,5
-523,523,1V01,"(1V01) (523) VA Boston HCS, MA",Level 1,5
-526,526,1V02,"(1V02) (526) Bronx, NY",Level 2,4
-528,528,1V02,"(1V02) (528) Western New York, NY",Level 1,5
-529,529,1V04,"(1V04) (529) Butler, PA",No ICU,1
-531,531,5V20,"(5V20) (531) Boise, ID",Level 3,3
-532,528A5,1V02,"(1V02) (528) Canandaigua, NY",No ICU,1
-534,534,2V07,"(2V07) (534) Charleston, SC",Level 1,5
-537,537,3V12,"(3V12) (537) Jesse Brown VAMC (Chicago), IL",Level 1,5
-538,538,3V10,"(3V10) (538) Chillicothe, OH",No ICU,1
-539,539,3V10,"(3V10) (539) Cincinnati, OH",Level 1,5
-540,540,1V05,"(1V05) (540) Clarksburg, WV",Level 3,3
-541,541,3V10,"(3V10) (541) Cleveland, OH",Level 1,5
-542,542,1V04,"(1V04) (542) Coatesville, PA",No ICU,1
-543,589A4,3V15,"(3V15) (589) Columbia, MO",Level 1,5
-544,544,2V07,"(2V07) (544) Columbia, SC",Level 2,4
-546,546,2V08,"(2V08) (546) Miami, FL",Level 1,5
-548,548,2V08,"(2V08) (548) West Palm Beach, FL",Level 3,3
-549,549,4V17,"(4V17) (549) Dallas, TX",Level 1,5
-550,550,3V12,"(3V12) (550) Danville, IL",No ICU,1
-552,552,3V10,"(3V10) (552) Dayton, OH",Level 2,4
-553,553,3V10,"(3V10) (553) Detroit, MI",Level 1,5
-554,554,4V19,"(4V19) (554) Denver, CO",Level 1,5
-555,636A6,3V23,"(3V23) (636) Central Iowa, IA",Level 2,4
-556,556,3V12,(3V12) (556) Captain James A Lovell FHCC,Level 3,3
-557,557,2V07,"(2V07) (557) Dublin, GA",No ICU,1
-558,558,1V06,"(1V06) (558) Durham, NC",Level 1,5
-561,561,1V02,"(1V02) (561) New Jersey HCS, NJ",Level 2,4
-562,562,1V04,"(1V04) (562) Erie, PA",No ICU,1
-564,564,4V16,"(4V16) (564) Fayetteville, AR",Level 3,3
-565,565,1V06,"(1V06) (565) Fayetteville, NC",Level 4,2
-568,568,3V23,"(3V23) (568) Black Hills HCS, SD",Level 3,3
-570,570,5V21,"(5V21) (570) Fresno, CA",Level 3,3
-573,573,2V08,"(2V08) (573) Gainesville, FL",Level 1,5
-575,575,4V19,"(4V19) (575) Grand Junction, CO",Level 3,3
-578,578,3V12,"(3V12) (578) Hines, IL",Level 1,5
-580,580,4V17,"(4V17) (580) Houston, TX",Level 1,5
-581,581,1V05,"(1V05) (581) Huntington, WV",Level 2,4
-583,583,3V10,"(3V10) (583) Indianapolis, IN",Level 1,5
-584,636A8,3V23,"(3V23) (636) Iowa City, IA",Level 2,4
-585,585,3V12,"(3V12) (585) Iron Mountain, MI",No ICU,1
-586,586,4V16,"(4V16) (586) Jackson, MS",Level 1,5
-589,589,3V15,"(3V15) (589) Kansas City, MO",Level 1,5
-590,590,1V06,"(1V06) (590) Hampton, VA",Level 3,3
-593,593,5V21,"(5V21) (593) Las Vegas, NV",Level 2,4
-595,595,1V04,"(1V04) (595) Lebanon, PA",Level 3,3
-596,596,2V09,"(2V09) (596) Lexington, KY",Level 1,5
-598,598,4V16,"(4V16) (598) Little Rock, AR",Level 1,5
-600,600,5V22,"(5V22) (600) Long Beach, CA",Level 2,4
-603,603,2V09,"(2V09) (603) Louisville, KY",Level 1,5
-605,605,5V22,"(5V22) (605) Loma Linda, CA",Level 1,5
-607,607,3V12,"(3V12) (607) Madison, WI",Level 1,5
-608,608,1V01,"(1V01) (608) Manchester, NH",No ICU,1
-609,657A5,3V15,"(3V15) (657) Marion, IL",Level 3,3
-610,610,3V10,"(3V10) (610) Northern Indiana HCS, IN",Level 4,2
-612,612,5V21,"(5V21) (612) N. California, CA",Level 3,3
-613,613,1V05,"(1V05) (613) Martinsburg, WV",Level 3,3
-614,614,2V09,"(2V09) (614) Memphis, TN",Level 1,5
-618,618,3V23,"(3V23) (618) Minneapolis, MN",Level 1,5
-619,619,2V07,"(2V07) (619) Central Alabama Veterans HCS, AL",Level 4,2
-620,620,1V02,"(1V02) (620) VA Hudson Valley HCS, NY",No ICU,1
-621,621,2V09,"(2V09) (621) Mountain Home, TN",Level 3,3
-623,623,4V19,"(4V19) (623) Muskogee, OK",Level 3,3
-626,626,2V09,"(2V09) (626) Middle Tennessee HCS, TN",Level 1,5
-629,629,4V16,"(4V16) (629) New Orleans, LA",No ICU,1
-630,630,1V02,"(1V02) (630) New York Harbor HCS, NY",Level 1,5
-631,631,1V01,(1V01) (631) VA Central Western Massachusetts HCS,No ICU,1
-632,632,1V02,"(1V02) (632) Northport, NY",Level 2,4
-635,635,4V19,"(4V19) (635) Oklahoma City, OK",Level 1,5
-636,636,3V23,"(3V23) (636) Nebraska-W Iowa, NE",Level 2,4
-637,637,1V06,"(1V06) (637) Asheville, NC",Level 2,4
-640,640,5V21,"(5V21) (640) Palo Alto, CA",Level 1,5
-642,642,1V04,"(1V04) (642) Philadelphia, PA",Level 1,5
-644,644,5V22,"(5V22) (644) Phoenix, AZ",Level 2,4
-646,646,1V04,"(1V04) (646) Pittsburgh, PA",Level 1,5
-647,657A4,3V15,"(3V15) (657) Poplar Bluff, MO",No ICU,1
-648,648,5V20,"(5V20) (648) Portland, OR",Level 1,5
-649,649,5V22,(5V22) (649) Northern Arizona HCS,No ICU,1
-650,650,1V01,"(1V01) (650) Providence, RI",Level 3,3
-652,652,1V06,"(1V06) (652) Richmond, VA",Level 1,5
-653,653,5V20,"(5V20) (653) Roseburg, OR",No ICU,1
-654,654,5V21,"(5V21) (654) Reno, NV",Level 3,3
-655,655,3V10,"(3V10) (655) Saginaw, MI",No ICU,1
-656,656,3V23,"(3V23) (656) St. Cloud, MN",No ICU,1
-657,657,3V15,"(3V15) (657) St. Louis, MO",Level 1,5
-658,658,1V06,"(1V06) (658) Salem, VA",Level 2,4
-659,659,1V06,"(1V06) (659) Salisbury, NC",Level 3,3
-660,660,4V19,"(4V19) (660) Salt Lake City, UT",Level 1,5
-662,662,5V21,"(5V21) (662) San Francisco, CA",Level 1,5
-663,663,5V20,"(5V20) (663) VA Puget Sound, WA",Level 1,5
-664,664,5V22,"(5V22) (664) San Diego, CA",Level 1,5
-666,666,4V19,"(4V19) (666) Sheridan, WY",No ICU,1
-667,667,4V16,"(4V16) (667) Shreveport, LA",Level 2,4
-668,668,5V20,"(5V20) (668) Spokane, WA",Level 4,2
-670,528A7,1V02,"(1V02) (528) Syracuse, NY",Level 2,4
-671,671,4V17,"(4V17) (671) San Antonio, TX",Level 1,5
-672,672,2V08,"(2V08) (672) San Juan, PR",Level 1,5
-673,673,2V08,"(2V08) (673) Tampa, FL",Level 1,5
-674,674,4V17,"(4V17) (674) Temple, TX",Level 2,4
-675,675,2V08,"(2V08) (675) Orlando, FL",Level 3,3
-676,676,3V12,"(3V12) (676) Tomah, WI",No ICU,1
-677,589A5,3V15,"(3V15) (589) Eastern KS HCS, KS",Level 3,3
-678,678,5V22,(5V22) (678) Southern Arizona HCS,Level 1,5
-679,679,2V07,"(2V07) (679) Tuscaloosa, AL",No ICU,1
-687,687,5V20,"(5V20) (687) Walla Walla, WA",No ICU,1
-688,688,1V05,"(1V05) (688) Washington, DC",Level 1,5
-689,689,1V01,"(1V01) (689) VA Connecticut HCS, CT",Level 1,5
-691,691,5V22,(5V22) (691) Greater Los Angeles HCS,Level 1,5
-692,692,5V20,"(5V20) (692) White City, OR",No ICU,1
-693,693,1V04,"(1V04) (693) Wilkes-Barre, PA",Level 3,3
-695,695,3V12,"(3V12) (695) Milwaukee, WI",Level 1,5
-740,740,4V17,(4V17) (740) VA Texas Valley Coastal Bend HCS,No ICU,1
-756,756,4V17,"(4V17) (756) El Paso, TX",No ICU,1
-757,757,3V10,"(3V10) (757) Columbus, OH",No ICU,1
-,523A4,,Boston VA Medical Center-West Roxbury,Level 1,5
-,596A4,,Lexington VA Medical Center-Cooper,Level 1,5
-,612A4,,Northern California VA Medical Center-Sacramento,Level 3,3
-,626A4,,Alvin C. York VA Medical Center-Murfreesboro,Level 1,5
-,630A4,,New York Harbor VA Medical Center-Brooklyn,Level 1,5
-,523A5,,Boston VA Medical Center-Brockton,Level 1,5
-,573A4,,Lake City VA Medical Center,Level 1,5
-,657A0,,St. Louis VA Medical Center-Jefferson Barracks,Level 1,5
-,674A4,,Doris Miller Department of Veterans Affairs Medical Center,Level 2,4
-,610A4,,Northern Indiana VA Medical Center-Fort Wayne,Level 4,2
-,598A0,,Eugene J. Tobin VA Medical Center-North Little Rock,Level 1,5
-,589A6,,Dwight D. Eisenhower VA Medical Center-Leavenworth,Level 3,3
-,620A4,,,No ICU,1
+STA5A_parent_number,facility_name,icu_level,icu_score
+402,"(1V01) (402) Togus, ME",Level 3,3
+405,"(1V01) (405) White River Junction, VT",Level 3,3
+436,(4V19) (436) Montana HCS,Level 3,3
+437,"(3V23) (437) Fargo, ND",Level 3,3
+438,"(3V23) (438) Sioux Falls, SD",Level 3,3
+442,"(4V19) (442) Cheyenne, WY",Level 3,3
+589A7,"(3V15) (589) Wichita, KS",Level 2,4
+459,"(5V21) (459) Honolulu, HI",No ICU,1
+460,"(1V04) (460) Wilmington, DE",Level 3,3
+463,"(5V20) (463) Anchorage, AK",No ICU,1
+528A8,"(1V02) (528) Albany, NY",Level 2,4
+501,(5V22) (501) New Mexico HCS,Level 1,5
+502,"(4V16) (502) Alexandria, LA",No ICU,1
+503,"(1V04) (503) Altoona, PA",No ICU,1
+504,"(4V17) (504) Amarillo, TX",Level 3,3
+506,"(3V10) (506) Ann Arbor, MI",Level 1,5
+508,"(2V07) (508) Atlanta, GA",Level 1,5
+509,"(2V07) (509) Augusta, GA",Level 1,5
+512,"(1V05) (512) Baltimore HCS, MD",Level 1,5
+528A6,"(1V02) (528) Bath, NY",No ICU,1
+515,"(3V10) (515) Battle Creek, MI",No ICU,1
+516,"(2V08) (516) Bay Pines, FL",Level 2,4
+517,"(1V05) (517) Beckley, WV",Level 4,2
+518,"(1V01) (518) Bedford, MA",No ICU,1
+519,"(4V17) (519) Big Spring, TX",No ICU,1
+520,"(4V16) (520) Gulf Coast HCS, MS",Level 3,3
+521,"(2V07) (521) Birmingham, AL",Level 1,5
+523,"(1V01) (523) VA Boston HCS, MA",Level 1,5
+526,"(1V02) (526) Bronx, NY",Level 2,4
+528,"(1V02) (528) Western New York, NY",Level 1,5
+529,"(1V04) (529) Butler, PA",No ICU,1
+531,"(5V20) (531) Boise, ID",Level 3,3
+528A5,"(1V02) (528) Canandaigua, NY",No ICU,1
+534,"(2V07) (534) Charleston, SC",Level 1,5
+537,"(3V12) (537) Jesse Brown VAMC (Chicago), IL",Level 1,5
+538,"(3V10) (538) Chillicothe, OH",No ICU,1
+539,"(3V10) (539) Cincinnati, OH",Level 1,5
+540,"(1V05) (540) Clarksburg, WV",Level 3,3
+541,"(3V10) (541) Cleveland, OH",Level 1,5
+542,"(1V04) (542) Coatesville, PA",No ICU,1
+589A4,"(3V15) (589) Columbia, MO",Level 1,5
+544,"(2V07) (544) Columbia, SC",Level 2,4
+546,"(2V08) (546) Miami, FL",Level 1,5
+548,"(2V08) (548) West Palm Beach, FL",Level 3,3
+549,"(4V17) (549) Dallas, TX",Level 1,5
+550,"(3V12) (550) Danville, IL",No ICU,1
+552,"(3V10) (552) Dayton, OH",Level 2,4
+553,"(3V10) (553) Detroit, MI",Level 1,5
+554,"(4V19) (554) Denver, CO",Level 1,5
+636A6,"(3V23) (636) Central Iowa, IA",Level 2,4
+556,(3V12) (556) Captain James A Lovell FHCC,Level 3,3
+557,"(2V07) (557) Dublin, GA",No ICU,1
+558,"(1V06) (558) Durham, NC",Level 1,5
+561,"(1V02) (561) New Jersey HCS, NJ",Level 2,4
+562,"(1V04) (562) Erie, PA",No ICU,1
+564,"(4V16) (564) Fayetteville, AR",Level 3,3
+565,"(1V06) (565) Fayetteville, NC",Level 4,2
+568,"(3V23) (568) Black Hills HCS, SD",Level 3,3
+570,"(5V21) (570) Fresno, CA",Level 3,3
+573,"(2V08) (573) Gainesville, FL",Level 1,5
+575,"(4V19) (575) Grand Junction, CO",Level 3,3
+578,"(3V12) (578) Hines, IL",Level 1,5
+580,"(4V17) (580) Houston, TX",Level 1,5
+581,"(1V05) (581) Huntington, WV",Level 2,4
+583,"(3V10) (583) Indianapolis, IN",Level 1,5
+636A8,"(3V23) (636) Iowa City, IA",Level 2,4
+585,"(3V12) (585) Iron Mountain, MI",No ICU,1
+586,"(4V16) (586) Jackson, MS",Level 1,5
+589,"(3V15) (589) Kansas City, MO",Level 1,5
+590,"(1V06) (590) Hampton, VA",Level 3,3
+593,"(5V21) (593) Las Vegas, NV",Level 2,4
+595,"(1V04) (595) Lebanon, PA",Level 3,3
+596,"(2V09) (596) Lexington, KY",Level 1,5
+598,"(4V16) (598) Little Rock, AR",Level 1,5
+600,"(5V22) (600) Long Beach, CA",Level 2,4
+603,"(2V09) (603) Louisville, KY",Level 1,5
+605,"(5V22) (605) Loma Linda, CA",Level 1,5
+607,"(3V12) (607) Madison, WI",Level 1,5
+608,"(1V01) (608) Manchester, NH",No ICU,1
+657A5,"(3V15) (657) Marion, IL",Level 3,3
+610,"(3V10) (610) Northern Indiana HCS, IN",Level 4,2
+612,"(5V21) (612) N. California, CA",Level 3,3
+613,"(1V05) (613) Martinsburg, WV",Level 3,3
+614,"(2V09) (614) Memphis, TN",Level 1,5
+618,"(3V23) (618) Minneapolis, MN",Level 1,5
+619,"(2V07) (619) Central Alabama Veterans HCS, AL",Level 4,2
+620,"(1V02) (620) VA Hudson Valley HCS, NY",No ICU,1
+621,"(2V09) (621) Mountain Home, TN",Level 3,3
+623,"(4V19) (623) Muskogee, OK",Level 3,3
+626,"(2V09) (626) Middle Tennessee HCS, TN",Level 1,5
+629,"(4V16) (629) New Orleans, LA",No ICU,1
+630,"(1V02) (630) New York Harbor HCS, NY",Level 1,5
+631,(1V01) (631) VA Central Western Massachusetts HCS,No ICU,1
+632,"(1V02) (632) Northport, NY",Level 2,4
+635,"(4V19) (635) Oklahoma City, OK",Level 1,5
+636,"(3V23) (636) Nebraska-W Iowa, NE",Level 2,4
+637,"(1V06) (637) Asheville, NC",Level 2,4
+640,"(5V21) (640) Palo Alto, CA",Level 1,5
+642,"(1V04) (642) Philadelphia, PA",Level 1,5
+644,"(5V22) (644) Phoenix, AZ",Level 2,4
+646,"(1V04) (646) Pittsburgh, PA",Level 1,5
+657A4,"(3V15) (657) Poplar Bluff, MO",No ICU,1
+648,"(5V20) (648) Portland, OR",Level 1,5
+649,(5V22) (649) Northern Arizona HCS,No ICU,1
+650,"(1V01) (650) Providence, RI",Level 3,3
+652,"(1V06) (652) Richmond, VA",Level 1,5
+653,"(5V20) (653) Roseburg, OR",No ICU,1
+654,"(5V21) (654) Reno, NV",Level 3,3
+655,"(3V10) (655) Saginaw, MI",No ICU,1
+656,"(3V23) (656) St. Cloud, MN",No ICU,1
+657,"(3V15) (657) St. Louis, MO",Level 1,5
+658,"(1V06) (658) Salem, VA",Level 2,4
+659,"(1V06) (659) Salisbury, NC",Level 3,3
+660,"(4V19) (660) Salt Lake City, UT",Level 1,5
+662,"(5V21) (662) San Francisco, CA",Level 1,5
+663,"(5V20) (663) VA Puget Sound, WA",Level 1,5
+664,"(5V22) (664) San Diego, CA",Level 1,5
+666,"(4V19) (666) Sheridan, WY",No ICU,1
+667,"(4V16) (667) Shreveport, LA",Level 2,4
+668,"(5V20) (668) Spokane, WA",Level 4,2
+528A7,"(1V02) (528) Syracuse, NY",Level 2,4
+671,"(4V17) (671) San Antonio, TX",Level 1,5
+672,"(2V08) (672) San Juan, PR",Level 1,5
+673,"(2V08) (673) Tampa, FL",Level 1,5
+674,"(4V17) (674) Temple, TX",Level 2,4
+675,"(2V08) (675) Orlando, FL",Level 3,3
+676,"(3V12) (676) Tomah, WI",No ICU,1
+589A5,"(3V15) (589) Eastern KS HCS, KS",Level 3,3
+678,(5V22) (678) Southern Arizona HCS,Level 1,5
+679,"(2V07) (679) Tuscaloosa, AL",No ICU,1
+687,"(5V20) (687) Walla Walla, WA",No ICU,1
+688,"(1V05) (688) Washington, DC",Level 1,5
+689,"(1V01) (689) VA Connecticut HCS, CT",Level 1,5
+691,(5V22) (691) Greater Los Angeles HCS,Level 1,5
+692,"(5V20) (692) White City, OR",No ICU,1
+693,"(1V04) (693) Wilkes-Barre, PA",Level 3,3
+695,"(3V12) (695) Milwaukee, WI",Level 1,5
+740,(4V17) (740) VA Texas Valley Coastal Bend HCS,No ICU,1
+756,"(4V17) (756) El Paso, TX",No ICU,1
+757,"(3V10) (757) Columbus, OH",No ICU,1
+523A4,Boston VA Medical Center-West Roxbury,Level 1,5
+596A4,Lexington VA Medical Center-Cooper,Level 1,5
+612A4,Northern California VA Medical Center-Sacramento,Level 3,3
+626A4,Alvin C. York VA Medical Center-Murfreesboro,Level 1,5
+630A4,New York Harbor VA Medical Center-Brooklyn,Level 1,5
+523A5,Boston VA Medical Center-Brockton,Level 1,5
+573A4,Lake City VA Medical Center,Level 1,5
+657A0,St. Louis VA Medical Center-Jefferson Barracks,Level 1,5
+674A4,Doris Miller Department of Veterans Affairs Medical Center,Level 2,4
+610A4,Northern Indiana VA Medical Center-Fort Wayne,Level 4,2
+598A0,Eugene J. Tobin VA Medical Center-North Little Rock,Level 1,5
+589A6,Dwight D. Eisenhower VA Medical Center-Leavenworth,Level 3,3
+620A4,,No ICU,1
