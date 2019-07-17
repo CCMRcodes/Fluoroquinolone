@@ -1,3 +1,8 @@
+/*authorship: Shirley Wang (inpatient data)
+              David Ratz (outpatient data pull)
+Date updated: 7/5/2019*/
+
+
 /***** Step 1: Identify Infection Hospitalization Cohort from VAPD  *****/
 
 %let year=20142017;
